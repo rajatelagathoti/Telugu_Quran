@@ -1,3 +1,2 @@
-gtts
-io
-os
+streamlit
+gTTS
